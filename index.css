@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg{
+        background: linear-gradient(#000000b8, #000000ba) ,url(https://img.freepik.com/premium-photo/morning-colorful-view-kathmandu-city-nepal_131480-115.jpg);
+        background-size: cover;
+}
+
+.logo{
+    width: 120px;
+    height: 100px;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+section{
+   margin-top: 5%;
+}
